@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactPage</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO1</string>
+</resources>
